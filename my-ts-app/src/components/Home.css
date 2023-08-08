@@ -1,0 +1,16 @@
+.centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .with-background {
+    background-color: #f5f5f5; 
+  }
+  .ant-card.ant-card-bordered.css-dev-only-do-not-override-fpg3f5 {
+    background: #85bfd7;
+}
+.ant-card-body {
+  color: #1e655b;
+}
